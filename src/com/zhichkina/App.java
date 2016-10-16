@@ -4,9 +4,6 @@ import com.zhichkina.component.Consumer;
 import com.zhichkina.component.ItemQueue;
 import com.zhichkina.component.Producer;
 
-/**
- * Created by ozhichki on 13.10.2016.
- */
 public class App {
     public static void main(String[] args) {
         ItemQueue queue = new ItemQueue();

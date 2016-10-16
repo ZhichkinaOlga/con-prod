@@ -3,9 +3,6 @@ package com.zhichkina.component;
 import java.util.ArrayDeque;
 import java.util.Queue;
 
-/**
- * Created by ozhichki on 13.10.2016.
- */
 public class ItemQueue {
 
     private final Queue<Item> queue;

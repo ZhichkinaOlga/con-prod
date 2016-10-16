@@ -2,9 +2,6 @@ package com.zhichkina.component;
 
 import java.util.Random;
 
-/**
- * Created by ozhichki on 13.10.2016.
- */
 public class Producer implements Runnable {
     private final ItemQueue queue;
     private final String name;
