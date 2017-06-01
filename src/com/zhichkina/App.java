@@ -20,7 +20,5 @@ public class App {
         new Thread(consumerA).start();
         new Thread(consumerB).start();
         new Thread(consumerC).start();
-
-
     }
 }

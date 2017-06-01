@@ -26,9 +26,7 @@ public class Consumer implements Runnable {
                 } else {
                     System.out.println(String.format("Consumer [%s] consumes null", name));
                 }
-
             }
         }
-
     }
 }
